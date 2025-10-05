@@ -29,7 +29,7 @@ An elegant React application that dynamically displays employee information usin
 ## 📦 Installation
 
 ## OUTPUT
-![OutPut_Screenshot]()
+![OutPut_Screenshot](public/Screenshot.png)
 ```bash
 git clone https://github.com/your-username/employee-cards-app
 cd employee-cards-app
