@@ -1,0 +1,20 @@
+.header{
+    text-align: center;
+    color: #02085a;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 20px;
+}
+.app-description{
+    text-align: center;
+    color: #392f2f;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+.person-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+}
